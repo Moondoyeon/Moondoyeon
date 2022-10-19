@@ -13,9 +13,16 @@
   <img alt="React" src="https://img.shields.io/badge/React-2A2C2E.svg?&style=for-the-badge&logo=React&logoColor=61DBFB"/>
   <img alt="Redux" src="https://img.shields.io/badge/Redux-7649BB.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6FA560.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img alt="styled components.js" src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
  </div>
-
+ 
  <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+</div>
+
  <br>
  <br>
 <div align="center">
