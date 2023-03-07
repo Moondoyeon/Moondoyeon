@@ -3,14 +3,14 @@
 <h2 align="center">👋 안녕하세요 프론트엔드 개발자 문도연입니다</h2>
 
 
-<!-- <h3 align="center"> About Me </h3> -->
+<strong><h3 align="center">About me</h3></strong>
 <div align="center">
 <a href="https://velog.io/@mmmdo21"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A.svg?&style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:mmmdo21@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
  </div>
 
 <br />
-<p align="center">Mainly Focusing on</p>
+<strong><h3 align="center">Mainly Focusing on</h3></strong>
 <div align="center" width="100%">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2F74C0.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
