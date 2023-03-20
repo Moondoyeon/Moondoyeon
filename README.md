@@ -16,6 +16,7 @@
 <strong><h3 align="center">About me</h3></strong>
 <div align="center">
 <a href="https://velog.io/@mmmdo21"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A.svg?&style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/%EB%8F%84%EC%97%B0-%EB%AC%B8-838398254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mmmdo21@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
  </div>
 
