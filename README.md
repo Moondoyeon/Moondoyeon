@@ -1,6 +1,6 @@
 
 
-<h2 align="center">👋 안녕하세요 프론트엔드 개발자 문도연입니다</h2>
+<h2 align="center">Moon doyeon</h2>
 
 
 
